@@ -17,6 +17,8 @@ Here are some ideas to get you started:
 ### Current Pursuits
  🔭 I’m currently working on integrating the openAI api to create a text based adventure game
 
- ### Portfolio
+ ### Websites
 
- ### My brother and I, [Quasy14](https://github.com/quasy14) run our own game development studio. Stop on by!
+ ethanstafford.com: Check out some of the projects I have done so far!
+
+ Gnomish.com: My brother and I, [Quasy14](https://github.com/quasy14) run our own game development studio. Stop on by!
