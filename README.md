@@ -1,5 +1,7 @@
 ### Greetings! 👋
-You have reached the github for Ethan Stafford. I am a software engineer with a background in full stack web development and game development.
+I am a software engineer with a background in full stack web development and game development. \
+
+Currently, I am actively working on expanding my skills as a full stack web developer and game developer though iterative development processes,
 
 ### Current Development 🚧
  🔭 I’m currently working on integrating the openAI api to create a text based adventure game. We are currently in the final sprint of development. Come check out the repo!
