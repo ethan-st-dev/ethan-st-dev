@@ -14,4 +14,5 @@ You have reached the github for Ethan Stafford. I am a software engineer with a 
 
 ### Contact Information
 Email: ethan-st-dev@gmail.com
+
 Phone: 1-714-477-3943
