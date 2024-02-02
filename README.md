@@ -4,7 +4,7 @@ You have reached the github for Ethan Stafford. I am a software engineer with a 
 ### About Me
 
 ### Current Pursuits
- 🔭 I’m currently working on integrating the openAI api to create a text based adventure game
+ 🔭 I’m currently working on integrating the openAI api to create a text based adventure game. We are currently in the final sprint of development. Come check out the repo!
 
 ### Next Steps
 
