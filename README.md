@@ -7,6 +7,6 @@
  ethanstafford.com: Check out some of the projects I have done so far!
 
 ### Contact Information 📞
-Email: ethan-st-dev@gmail.com
+Email: ethanstafford.dev@gmail.com
 
 Phone: 1-714-477-3943
