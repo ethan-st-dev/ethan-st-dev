@@ -7,4 +7,4 @@
 Email: ethanstafford.dev@gmail.com
 
 Phone: 1-714-477-3943
-![.NET](https://img.shields.io/badge/logo=dotnet-4.8-blue)
+![.NET](https://img.shields.io/badge/?logo=dotnet-4.8-blue)
