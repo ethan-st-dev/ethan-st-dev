@@ -1,7 +1,7 @@
 ### About
 Software Engineer at GMEP Engineers
 
-### Skills
+### Technologies
 ![.NET](https://img.shields.io/badge/4.8-blue?logo=dotnet&logoColor=white&labelColor=gray)
 
 ### Contact Information
