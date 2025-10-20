@@ -7,5 +7,3 @@ Software Engineer at GMEP Engineers
 
 ### Contact Information
 Email: ethanstafford.dev@gmail.com
-
-Website: gnomishinteractive.com
