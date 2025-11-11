@@ -2,14 +2,30 @@
 Software Engineer experienced in .NET, full-stack web development, and game development.
 
 ## Technologies
-![.NET](https://img.shields.io/badge/4.8-blue?logo=dotnet&logoColor=white&labelColor=gray)
-![C#](https://img.shields.io/badge/C%23-2025-239120?logo=c-sharp&logoColor=white)
-![React](https://img.shields.io/badge/React-2025-61DAFB?logo=react&logoColor=white&labelColor=gray)
-![Next.js](https://img.shields.io/badge/Next.js-2025-000000?logo=nextdotjs&logoColor=white&labelColor=gray)
-![AWS](https://img.shields.io/badge/AWS-2025-232F3E?logo=amazon-aws&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-2025-339933?logo=nodedotjs&logoColor=white&labelColor=gray)
+![C#](https://img.shields.io/badge/C%23-239120?logo=csharp&logoColor=white&labelColor=gray)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&labelColor=gray)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&labelColor=gray)
+
+![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white&labelColor=gray)
+![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white&labelColor=gray)
+![Node.js](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white&labelColor=gray)
+![Express](https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white&labelColor=gray)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&labelColor=gray)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&labelColor=gray)
 
 
-![Unreal](https://img.shields.io/badge/Unreal_Engine-2025-0E1128?logo=unrealengine&logoColor=white&labelColor=gray)
-![Unity](https://img.shields.io/badge/Unity-2025-222C37?logo=unity&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=white&labelColor=gray)
+![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?logo=dotnet&logoColor=white&labelColor=gray)
+![WPF](https://img.shields.io/badge/WPF-0078D7?logo=windows&logoColor=white&labelColor=gray)
+![WinForms](https://img.shields.io/badge/WinForms-0078D7?logo=windows&logoColor=white&labelColor=gray)
+
+![Unity](https://img.shields.io/badge/Unity-222C37?logo=unity&logoColor=white)
+![Unreal Engine](https://img.shields.io/badge/Unreal_Engine-0E1128?logo=unrealengine&logoColor=white&labelColor=gray)
+
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&labelColor=gray)
+![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&labelColor=gray)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white&labelColor=gray)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?logo=visualstudiocode&logoColor=white&labelColor=gray)
+
+
 
