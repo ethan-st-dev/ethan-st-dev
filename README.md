@@ -14,8 +14,6 @@ Software Engineer experienced in .NET, full-stack web development, and game deve
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&labelColor=gray)
 
 ![.NET](https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=white&labelColor=gray)
-![WPF](https://img.shields.io/badge/WPF-0078D7?logo=windows&logoColor=white&labelColor=gray)
-![WinForms](https://img.shields.io/badge/WinForms-0078D7?logo=windows&logoColor=white&labelColor=gray)
 
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&labelColor=gray)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&labelColor=gray)
