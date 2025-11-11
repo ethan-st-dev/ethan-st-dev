@@ -1,5 +1,5 @@
 ## About
-Software Engineer at GMEP Engineers
+Software Engineer experienced in .NET, full-stack web development, and game development.
 
 ## Technologies
 ![.NET](https://img.shields.io/badge/4.8-blue?logo=dotnet&logoColor=white&labelColor=gray)
