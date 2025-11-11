@@ -2,7 +2,7 @@
 Software Engineer experienced in .NET, full-stack web development, and game development.
 
 ## Technologies
-![C#](https://img.shields.io/badge/C%23-239120?l&labelColor=gray)
+![C#](https://img.shields.io/badge/C%23-239120?)
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&labelColor=gray)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&labelColor=gray)
