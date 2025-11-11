@@ -13,6 +13,9 @@ Software Engineer experienced in .NET, full-stack web development, and game deve
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&labelColor=gray)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&labelColor=gray)
 
+![Unity](https://img.shields.io/badge/Unity-222C37?logo=unity&logoColor=white&labelColor=gray)
+![Unreal Engine](https://img.shields.io/badge/Unreal_Engine-0E1128?logo=unrealengine&logoColor=white&labelColor=gray)
+
 ![.NET](https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=white&labelColor=gray)
 
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&labelColor=gray)
@@ -20,8 +23,6 @@ Software Engineer experienced in .NET, full-stack web development, and game deve
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white&labelColor=gray)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&labelColor=gray)
 
-![Unity](https://img.shields.io/badge/Unity-222C37?logo=unity&logoColor=white&labelColor=gray)
-![Unreal Engine](https://img.shields.io/badge/Unreal_Engine-0E1128?logo=unrealengine&logoColor=white&labelColor=gray)
 
 
 
