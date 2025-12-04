@@ -20,7 +20,7 @@ Software Engineer experienced in .NET, full-stack web development, and game deve
 
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&labelColor=gray)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&labelColor=gray)
-<![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white&labelColor=gray)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white&labelColor=gray)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&labelColor=gray)
 
 
