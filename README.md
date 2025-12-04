@@ -3,14 +3,14 @@ Software Engineer experienced in .NET, full-stack web development, and game deve
 
 ## Technologies
 ![C#](https://img.shields.io/badge/C%23-C%23-239120?labelColor=gray)
-<!--![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=white&labelColor=gray)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=white&labelColor=gray)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&labelColor=gray)
 
 ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white&labelColor=gray)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white&labelColor=gray)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white&labelColor=gray)
 ![Express](https://img.shields.io/badge/Express-000000?logo=express&logoColor=white&labelColor=gray)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&labelColor=gray)-->
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&labelColor=gray)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&labelColor=gray)
 
 ![Unity](https://img.shields.io/badge/Unity-222C37?logo=unity&logoColor=white&labelColor=gray)
