@@ -1,5 +1,5 @@
 ## About
-Software Engineer experienced in .NET, full-stack web development, and game development.
+Software Engineer experienced in full-stack web development, and game development.
 
 ## In Development
 Currently developing SealTank - a multiplayer lobby WebXR game using React & Needle.js.
