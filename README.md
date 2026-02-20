@@ -12,7 +12,6 @@ Currently developing SealTank - a multiplayer lobby WebXR game using React & Nee
 ![.NET](https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=white&labelColor=gray)
 
 ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white&labelColor=gray)
-//![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white&labelColor=gray)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white&labelColor=gray)
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&labelColor=gray)
