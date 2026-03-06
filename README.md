@@ -2,7 +2,7 @@
 Software Engineer experienced in full-stack web and .NET development. Passionate about merging web experiences with new immerging technology.
 
 ## In Development
-Currently developing SealTank - a multiplayer lobby WebXR game using ASP.NET, React, and Unity with Needle.js.
+Currently developing SealTank - a multiplayer lobby WebXR game using ASP.NET, React, and Unity with Needle Engine.
 
 ## Technologies
 ![C#](https://img.shields.io/badge/C%23-C%23-239120?labelColor=gray)
