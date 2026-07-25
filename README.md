@@ -5,16 +5,17 @@ Software Engineer experienced in full-stack web and .NET development. Passionate
 Currently developing SealTank - a multiplayer lobby WebXR game using ASP.NET, React, and Unity with Needle Engine.
 
 ## Technologies
-![C#](https://img.shields.io/badge/C%23-C%23-239120?labelColor=gray)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=white&labelColor=gray)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&labelColor=gray)
+![C#](https://img.shields.io/badge/C%23-C%23-239120?labelColor=gray)
 
-![.NET](https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=white&labelColor=gray)
-
+![Next.js](https://img.shields.io/badge/Next.js-black?logo=next.js&logoColor=white&labelColor=gray)
 ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white&labelColor=gray)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white&labelColor=gray)
 
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&labelColor=gray)
+![.NET](https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=white&labelColor=gray)
+![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?logo=dotnet&logoColor=white&labelColor=gray)
+
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&labelColor=gray)
 
 ![Unity](https://img.shields.io/badge/Unity-222C37?logo=unity&logoColor=white&labelColor=gray)
