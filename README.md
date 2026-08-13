@@ -1,9 +1,6 @@
 ## About
 Software Engineer experienced in full-stack web development. Passionate about merging web experiences with new immerging technology.
 
-## In Development
-
-
 ## Technologies
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=white&labelColor=gray)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&labelColor=gray)
