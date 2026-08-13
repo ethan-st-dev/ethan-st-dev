@@ -21,6 +21,9 @@ Software Engineer experienced in full-stack web development. Passionate about me
 ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&labelColor=gray)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&labelColor=gray)
 
+![AWS](https://img.shields.io/badge/AWS-FF9900?logo=amazon-aws&logoColor=white&labelColor=gray)
+![Azure](https://img.shields.io/badge/Azure-0078D4?logo=microsoft-azure&logoColor=white&labelColor=gray)
+
 
 
 
