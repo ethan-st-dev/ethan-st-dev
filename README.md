@@ -18,7 +18,7 @@ Software Engineer experienced in .NET full-stack web development.
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&labelColor=gray)
 
 ### Cloud & DevOps
-![Microsoft Azure](https://custom-icon-badges.demolab.com/badge/Microsoft%20Azure-0089D6?logo=msazure&logoColor=white)
+![Microsoft Azure](https://custom-icon-badges.demolab.com/badge/Microsoft%20Azure-0089D6?logo=msazure&logoColor=white&labelColor=gray)
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&labelColor=gray)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&labelColor=gray)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&labelColor=gray)
