@@ -1,5 +1,5 @@
 # About
-Software Engineer experienced in full-stack web development. Passionate about merging web experiences with new immerging technology.
+Software Engineer experienced in full-stack web development. Passionate about merging web experiences with new emerging technology.
 
 # Technologies
 
