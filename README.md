@@ -4,9 +4,10 @@ Software Engineer experienced in full-stack web development. Passionate about me
 # Technologies
 
 ## Languages & Core
+![C#](https://img.shields.io/badge/C%23-C%23-239120?labelColor=gray)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=white&labelColor=gray)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&labelColor=gray)
-![C#](https://img.shields.io/badge/C%23-C%23-239120?labelColor=gray)
+
 
 ## Backend & Web Architecture
 ![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?logo=dotnet&logoColor=white&labelColor=gray)
