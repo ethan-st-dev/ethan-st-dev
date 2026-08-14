@@ -5,15 +5,16 @@ Software Engineer experienced in .NET full-stack web development.
 
 ### Languages & Core
 ![C#](https://img.shields.io/badge/C%23-C%23-239120?labelColor=gray)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=white&labelColor=gray)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&labelColor=gray)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=white&labelColor=gray)
+
 
 
 ### Backend & Web Architecture
 ![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?logo=dotnet&logoColor=white&labelColor=gray)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=white&labelColor=gray)
-![Next.js](https://img.shields.io/badge/Next.js-black?logo=next.js&logoColor=white&labelColor=gray)
 ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white&labelColor=gray)
+![Next.js](https://img.shields.io/badge/Next.js-black?logo=next.js&logoColor=white&labelColor=gray)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&labelColor=gray)
 
 ### Cloud & DevOps
