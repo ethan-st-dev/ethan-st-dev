@@ -1,5 +1,5 @@
 ## About
-C# Software Engineer | Game Systems and .NET Web Development
+C# Software Engineer | Game Systems & .NET Web Development
 
 ## Technologies
 
