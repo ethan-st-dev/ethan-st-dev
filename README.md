@@ -1,5 +1,5 @@
 ## About
-Software Engineer experienced in .NET full-stack web development.
+C# Software Engineer | Game Systems and .NET Web Development
 
 ## Technologies
 
@@ -7,8 +7,6 @@ Software Engineer experienced in .NET full-stack web development.
 ![C#](https://custom-icon-badges.demolab.com/badge/C%23-%23239120.svg?logo=cshrp&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=white)
-
-
 
 ### Backend & Web Architecture
 ![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?logo=dotnet&logoColor=white)
